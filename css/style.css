@@ -1,0 +1,31 @@
+nav {
+    background-color: #212931;
+}
+.page-footer {
+    background-color: #212931;
+}
+
+.brand-logo img {
+    padding: 10px;
+}
+
+.parallax-container {
+    height: 400px;
+}
+
+.row {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+body {
+    background-color: #15181d;
+}
+
+h4 {
+    color: #97b7d1;
+}
+
+.main-color {
+    background-color: #212931;
+}
